@@ -22,7 +22,9 @@
 
 - There are three buttons which will also take you to the relevant section of the body (project, contact, submit).
 
-- Footer is linked to the linkedin profile
+- Footer is linked to the linkedin profile.
+
+- project picture size is 1.2 times larger when hover, and linked to the URL to demostrate.
 
 ---
 
