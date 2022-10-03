@@ -36,5 +36,6 @@
 
 ---
 
-## Total time spent on this project: 25-30 hours
+## 03 Oct 2022
 
+Added Project - The Dinner Party to the portfolio
